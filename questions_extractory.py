@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 def flatten_list (lol) :
     flattened_list = ""
     for row in lol:
-        flattened_list += "|".join(row) + "\n"
+        flattened_list += ",".join(row) + "\n"
     return flattened_list
     
 

@@ -1,47 +1,47 @@
-1|Twitter|Easy|Histogram of Tweets|https://datalemur.com/questions/sql-histogram-tweets
-2|LinkedIn|Easy|Data Science Skills|https://datalemur.com/questions/matching-skills
-3|Facebook|Easy|Page With No Likes|https://datalemur.com/questions/sql-page-with-no-likes
-4|Tesla|Easy|Unfinished Parts|https://datalemur.com/questions/tesla-unfinished-parts
-5|New York Times|Easy|Laptop vs. Mobile Viewership|https://datalemur.com/questions/laptop-mobile-viewership
-6|Facebook|Easy|Average Post Hiatus (Part 1)|https://datalemur.com/questions/sql-average-post-hiatus-1
-7|Microsoft|Easy|Teams Power Users|https://datalemur.com/questions/teams-power-users
-8|Linkedin|Easy|Duplicate Job Listings|https://datalemur.com/questions/duplicate-job-listings
-9|Robinhood|Easy|Cities With Completed Trades|https://datalemur.com/questions/completed-trades
-10|Amazon|Easy|Average Review Ratings|https://datalemur.com/questions/sql-avg-review-ratings
-11|Facebook|Easy|App Click-through Rate (CTR)|https://datalemur.com/questions/click-through-rate
-12|TikTok|Easy|Second Day Confirmation|https://datalemur.com/questions/second-day-confirmation
-13|IBM|Easy|IBM db2 Product Analytics|https://datalemur.com/questions/sql-ibm-db2-product-analytics
-14|JPMorgan Chase|Easy|Cards Issued Difference|https://datalemur.com/questions/cards-issued-difference
-15|Alibaba|Easy|Compressed Mean|https://datalemur.com/questions/alibaba-compressed-mean
-16|CVS Health|Easy|Pharmacy Analytics (Part 1)|https://datalemur.com/questions/top-profitable-drugs
-17|CVS Health|Easy|Pharmacy Analytics (Part 2)|https://datalemur.com/questions/non-profitable-drugs
-18|CVS Health|Easy|Pharmacy Analytics (Part 3)|https://datalemur.com/questions/total-drugs-sales
-19|UnitedHealth|Easy|Patient Support Analysis (Part 1)|https://datalemur.com/questions/frequent-callers
-20|Uber|Medium|User's Third Transaction|https://datalemur.com/questions/sql-third-transaction
-21|FAANG|Medium|Second Highest Salary|https://datalemur.com/questions/sql-second-highest-salary
-22|Snapchat|Medium|Sending vs. Opening Snaps|https://datalemur.com/questions/time-spent-snaps
-23|Twitter|Medium|Tweets' Rolling Averages|https://datalemur.com/questions/rolling-average-tweets
-24|Amazon|Medium|Highest-Grossing Items|https://datalemur.com/questions/sql-highest-grossing
-25|FAANG|Medium|Top Three Salaries|https://datalemur.com/questions/sql-top-three-salaries
-26|Spotify|Medium|Top 5 Artists|https://datalemur.com/questions/top-fans-rank
-27|TikTok|Medium|Signup Activation Rate|https://datalemur.com/questions/signup-confirmation-rate
-28|Microsoft|Medium|Supercloud Customer|https://datalemur.com/questions/supercloud-customer
-29|Google|Medium|Odd and Even Measurements|https://datalemur.com/questions/odd-even-measurements
-30|Walmart|Medium|Histogram of Users and Purchases|https://datalemur.com/questions/histogram-users-purchases
-31|Alibaba|Medium|Compressed Mode|https://datalemur.com/questions/alibaba-compressed-mode
-32|JPMorgan Chase|Medium|Card Launch Success|https://datalemur.com/questions/card-launch-success
-33|Verizon|Medium|International Call Percentage|https://datalemur.com/questions/international-call-percentage
-34|UnitedHealth|Medium|Patient Support Analysis (Part 2)|https://datalemur.com/questions/uncategorized-calls-percentage
-35|Facebook|Hard|Active User Retention|https://datalemur.com/questions/user-retention
-36|Wayfair|Hard|Y-on-Y Growth Rate|https://datalemur.com/questions/yoy-growth-rate
-37|Amazon|Hard|Maximize Prime Item Inventory|https://datalemur.com/questions/prime-warehouse-storage
-38|Google|Hard|Median Google Search Frequency|https://datalemur.com/questions/median-search-freq
-39|Facebook|Hard|Advertiser Status|https://datalemur.com/questions/updated-status
-40|McKinsey|Hard|3-Topping Pizzas|https://datalemur.com/questions/pizzas-topping-cost
-41|Stripe|Hard|Repeated Payments|https://datalemur.com/questions/repeated-payments
-42|Oracle|Easy|Who Made Quota?|https://datalemur.com/questions/oracle-sales-quota
-43|Amazon|Hard|Server Utilization Time|https://datalemur.com/questions/total-utilization-time
-44|Zomato|Medium|Swapped Food Delivery|https://datalemur.com/questions/sql-swapped-food-delivery
-45|FAANG|Hard|Department vs. Company Salary|https://datalemur.com/questions/sql-department-company-salary-comparison
-46|Bloomberg|Medium|FAANG Stock Min-Max (Part 1)|https://datalemur.com/questions/sql-bloomberg-stock-min-max-1
-47|FAANG|Easy|Well Paid Employees|https://datalemur.com/questions/sql-well-paid-employees
+1,Twitter,Easy,Histogram of Tweets,https://datalemur.com/questions/sql-histogram-tweets
+2,LinkedIn,Easy,Data Science Skills,https://datalemur.com/questions/matching-skills
+3,Facebook,Easy,Page With No Likes,https://datalemur.com/questions/sql-page-with-no-likes
+4,Tesla,Easy,Unfinished Parts,https://datalemur.com/questions/tesla-unfinished-parts
+5,New York Times,Easy,Laptop vs. Mobile Viewership,https://datalemur.com/questions/laptop-mobile-viewership
+6,Facebook,Easy,Average Post Hiatus (Part 1),https://datalemur.com/questions/sql-average-post-hiatus-1
+7,Microsoft,Easy,Teams Power Users,https://datalemur.com/questions/teams-power-users
+8,Linkedin,Easy,Duplicate Job Listings,https://datalemur.com/questions/duplicate-job-listings
+9,Robinhood,Easy,Cities With Completed Trades,https://datalemur.com/questions/completed-trades
+10,Amazon,Easy,Average Review Ratings,https://datalemur.com/questions/sql-avg-review-ratings
+11,Facebook,Easy,App Click-through Rate (CTR),https://datalemur.com/questions/click-through-rate
+12,TikTok,Easy,Second Day Confirmation,https://datalemur.com/questions/second-day-confirmation
+13,IBM,Easy,IBM db2 Product Analytics,https://datalemur.com/questions/sql-ibm-db2-product-analytics
+14,JPMorgan Chase,Easy,Cards Issued Difference,https://datalemur.com/questions/cards-issued-difference
+15,Alibaba,Easy,Compressed Mean,https://datalemur.com/questions/alibaba-compressed-mean
+16,CVS Health,Easy,Pharmacy Analytics (Part 1),https://datalemur.com/questions/top-profitable-drugs
+17,CVS Health,Easy,Pharmacy Analytics (Part 2),https://datalemur.com/questions/non-profitable-drugs
+18,CVS Health,Easy,Pharmacy Analytics (Part 3),https://datalemur.com/questions/total-drugs-sales
+19,UnitedHealth,Easy,Patient Support Analysis (Part 1),https://datalemur.com/questions/frequent-callers
+20,Uber,Medium,User's Third Transaction,https://datalemur.com/questions/sql-third-transaction
+21,FAANG,Medium,Second Highest Salary,https://datalemur.com/questions/sql-second-highest-salary
+22,Snapchat,Medium,Sending vs. Opening Snaps,https://datalemur.com/questions/time-spent-snaps
+23,Twitter,Medium,Tweets' Rolling Averages,https://datalemur.com/questions/rolling-average-tweets
+24,Amazon,Medium,Highest-Grossing Items,https://datalemur.com/questions/sql-highest-grossing
+25,FAANG,Medium,Top Three Salaries,https://datalemur.com/questions/sql-top-three-salaries
+26,Spotify,Medium,Top 5 Artists,https://datalemur.com/questions/top-fans-rank
+27,TikTok,Medium,Signup Activation Rate,https://datalemur.com/questions/signup-confirmation-rate
+28,Microsoft,Medium,Supercloud Customer,https://datalemur.com/questions/supercloud-customer
+29,Google,Medium,Odd and Even Measurements,https://datalemur.com/questions/odd-even-measurements
+30,Walmart,Medium,Histogram of Users and Purchases,https://datalemur.com/questions/histogram-users-purchases
+31,Alibaba,Medium,Compressed Mode,https://datalemur.com/questions/alibaba-compressed-mode
+32,JPMorgan Chase,Medium,Card Launch Success,https://datalemur.com/questions/card-launch-success
+33,Verizon,Medium,International Call Percentage,https://datalemur.com/questions/international-call-percentage
+34,UnitedHealth,Medium,Patient Support Analysis (Part 2),https://datalemur.com/questions/uncategorized-calls-percentage
+35,Facebook,Hard,Active User Retention,https://datalemur.com/questions/user-retention
+36,Wayfair,Hard,Y-on-Y Growth Rate,https://datalemur.com/questions/yoy-growth-rate
+37,Amazon,Hard,Maximize Prime Item Inventory,https://datalemur.com/questions/prime-warehouse-storage
+38,Google,Hard,Median Google Search Frequency,https://datalemur.com/questions/median-search-freq
+39,Facebook,Hard,Advertiser Status,https://datalemur.com/questions/updated-status
+40,McKinsey,Hard,3-Topping Pizzas,https://datalemur.com/questions/pizzas-topping-cost
+41,Stripe,Hard,Repeated Payments,https://datalemur.com/questions/repeated-payments
+42,Oracle,Easy,Who Made Quota?,https://datalemur.com/questions/oracle-sales-quota
+43,Amazon,Hard,Server Utilization Time,https://datalemur.com/questions/total-utilization-time
+44,Zomato,Medium,Swapped Food Delivery,https://datalemur.com/questions/sql-swapped-food-delivery
+45,FAANG,Hard,Department vs. Company Salary,https://datalemur.com/questions/sql-department-company-salary-comparison
+46,Bloomberg,Medium,FAANG Stock Min-Max (Part 1),https://datalemur.com/questions/sql-bloomberg-stock-min-max-1
+47,FAANG,Easy,Well Paid Employees,https://datalemur.com/questions/sql-well-paid-employees
