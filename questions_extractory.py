@@ -1,4 +1,4 @@
-import requests
+import requests, os
 from bs4 import BeautifulSoup as bs
 
 def flatten_list (lol) :
@@ -32,6 +32,19 @@ for i,row in enumerate(table.find_all('tr')[1:]):
     #     ,question_name
     #     ], sep="\t")
     data.append([str(i+1), company, difficulty, question_name, base_url + link])
+
+    folder = f"{i+1} - {question_name} [{company} SQL Interview Question]/"
+    if not os.path.exists(folder):
+        os.mkdir(folder)
+        with open(folder + f"{i+1} - problem.md", 'w') as file: 
+            file.write(f"""# {question_name} [{company} SQL Interview Question]
+
+> Problem info:
+> Difficulty: `{difficulty}`
+> Company: `{company}`
+
+""")
+        with open(folder + f"{i+1} - solution.sql", 'w') as file: file.write("-- Solved on: PostgreSQL 14")
 
 csv_string = flatten_list(data)
 with open("questions.csv", 'w+') as file:
