@@ -20,7 +20,7 @@ p.s. If you've read the Ace the Data Science Interview and liked it, consider wr
 ### `posts` Example Input:
 
 | user_id | post_id | post_content | post_date |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 151652 | 599415 | Need a hug | 07/10/2021 12:00:00 |
 661093 | 624356 | Bed. Class 8-12. Work 12-3. Gym 3-5 or 6. Then class 6-10. Another day that's | gonna  |fly by. I miss my girlfriend | 07/29/2021 13:00:00 |
 | 004239 | 784254 | Happy 4th of July! | 07/04/2021 11:00:00 |
