@@ -1,0 +1,1 @@
+-- Solved on: PostgreSQL 14
